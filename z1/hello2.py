@@ -1,0 +1,6 @@
+print('Hello world!')
+print('Hello again')
+print('bla')
+print('bla')
+print('bla\'s')
+print('End')
