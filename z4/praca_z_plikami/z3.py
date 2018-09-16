@@ -4,7 +4,7 @@ emails = set()
 
 with open(sys.argv[1], encoding='utf-8') as f:
 
-    raw = f.read()
+    raw = f.read(      )
     raw = raw.splitlines()
 
     emails = set()
